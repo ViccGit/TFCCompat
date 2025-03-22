@@ -1,0 +1,23 @@
+{
+  "type": "tfcc:add_item",
+  "conditions": [
+    {
+      "block": "minecraft:basalt",
+      "condition": "minecraft:block_state_property"
+    },
+    {
+      "condition": "minecraft:match_tool",
+      "predicate": {
+        "enchantments": [
+          {
+            "enchantment": "minecraft:silk_touch",
+            "levels": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "item": "tfc:rock/smooth/basalt"
+}

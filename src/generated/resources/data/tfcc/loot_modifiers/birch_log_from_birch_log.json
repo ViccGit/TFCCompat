@@ -1,0 +1,10 @@
+{
+  "type": "tfcc:add_item",
+  "conditions": [
+    {
+      "block": "minecraft:birch_log",
+      "condition": "minecraft:block_state_property"
+    }
+  ],
+  "item": "tfc:wood/log/birch"
+}

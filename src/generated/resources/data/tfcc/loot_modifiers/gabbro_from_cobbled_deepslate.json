@@ -1,0 +1,10 @@
+{
+  "type": "tfcc:add_item",
+  "conditions": [
+    {
+      "block": "minecraft:cobbled_deepslate",
+      "condition": "minecraft:block_state_property"
+    }
+  ],
+  "item": "tfc:rock/loose/gabbro"
+}

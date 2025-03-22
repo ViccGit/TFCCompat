@@ -1,0 +1,10 @@
+{
+  "type": "tfcc:add_item",
+  "conditions": [
+    {
+      "block": "minecraft:cobblestone",
+      "condition": "minecraft:block_state_property"
+    }
+  ],
+  "item": "tfc:rock/loose/dacite"
+}
