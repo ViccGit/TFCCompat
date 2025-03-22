@@ -1,0 +1,103 @@
+[20Mar2025 18:32:11.236] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\david\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.23, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, tfcc, --all, --output, E:\Downloads - Hard Drive\forge-1.20.1-47.2.23-mdk\src\generated\resources, --existing, E:\Downloads - Hard Drive\forge-1.20.1-47.2.23-mdk\src\main\resources, --mixin.config, mixins.tfcc.json]
+[20Mar2025 18:32:11.239] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[20Mar2025 18:32:11.315] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[20Mar2025 18:32:11.347] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/david/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[20Mar2025 18:32:11.560] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\david\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.23\8d7982d349f3f73f0cf601114566f79554e40a57\javafmllanguage-1.20.1-47.2.23.jar is missing mods.toml file
+[20Mar2025 18:32:11.563] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\david\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.23\a6d981c7fe219cb6837eed446cc34b44a20ff4d7\lowcodelanguage-1.20.1-47.2.23.jar is missing mods.toml file
+[20Mar2025 18:32:11.565] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\david\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.23\96184dbb2def862d829e9beefc5aedbc159c8e70\mclanguage-1.20.1-47.2.23.jar is missing mods.toml file
+[20Mar2025 18:32:11.567] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\david\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.23\2e06817da9e8a025bd49e2a30c4e5735ff32e9e4\fmlcore-1.20.1-47.2.23.jar is missing mods.toml file
+[20Mar2025 18:32:11.666] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20Mar2025 18:32:12.695] [main/WARN] [mixin/]: Compatibility level JAVA_17 specified by mixins.tfcc.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[20Mar2025 18:32:12.695] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Mar2025 18:32:12.698] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\david\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, tfcc, --all, --output, E:\Downloads - Hard Drive\forge-1.20.1-47.2.23-mdk\src\generated\resources, --existing, E:\Downloads - Hard Drive\forge-1.20.1-47.2.23-mdk\src\main\resources]
+[20Mar2025 18:32:12.739] [main/INFO] [mixin/]: Attempting to load Fernflower decompiler (Threaded mode)
+[20Mar2025 18:32:12.740] [main/INFO] [mixin/]: Fernflower could not be loaded, exported classes will not be decompiled. NoClassDefFoundError: org/jetbrains/java/decompiler/main/extern/IResultSaver
+[20Mar2025 18:32:12.754] [main/INFO] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[20Mar2025 18:32:12.754] [main/INFO] [mixin/]: Selecting config mixins.tfcc.json
+[20Mar2025 18:32:12.756] [main/WARN] [mixin/]: Reference map 'tfcc.refmap.json' for mixins.tfcc.json could not be read. If this is a development environment you can ignore this message
+[20Mar2025 18:32:12.756] [main/INFO] [mixin/]: Selecting config tfc.mixins.json
+[20Mar2025 18:32:12.939] [main/INFO] [mixin/]: Remapping refMap tfc.refmap.json using E:\Downloads - Hard Drive\forge-1.20.1-47.2.23-mdk/build/createSrgToMcp/output.srg
+[20Mar2025 18:32:12.939] [main/INFO] [mixin/]: Selecting config patchouli_xplat.mixins.json
+[20Mar2025 18:32:12.940] [main/INFO] [mixin/]: Remapping refMap patchouli.refmap.json using E:\Downloads - Hard Drive\forge-1.20.1-47.2.23-mdk/build/createSrgToMcp/output.srg
+[20Mar2025 18:32:12.940] [main/INFO] [mixin/]: Preparing mixins.tfcc.json (1)
+[20Mar2025 18:32:12.961] [main/INFO] [mixin/]: Preparing tfc.mixins.json (76)
+[20Mar2025 18:32:13.212] [main/WARN] [mixin/]: Error loading class: loaderCommon/forge/com/seibel/distanthorizons/common/wrappers/worldGeneration/mimicObject/ChunkLoader (java.lang.ClassNotFoundException: loaderCommon.forge.com.seibel.distanthorizons.common.wrappers.worldGeneration.mimicObject.ChunkLoader)
+[20Mar2025 18:32:13.257] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.FluidRenderer)
+[20Mar2025 18:32:13.257] [main/INFO] [mixin/]: Preparing patchouli_xplat.mixins.json (10)
+[20Mar2025 18:32:13.308] [main/INFO] [mixin/]: Prepared 85 mixins in 0.554 sec (6.5ms avg) (0ms load, 0ms transform, 0ms plugin)
+[20Mar2025 18:32:13.421] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [tfcc]
+[20Mar2025 18:32:13.476] [main/INFO] [mixin/]: Mixing accessor.BlockBehaviourAccessor from tfc.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour
+[20Mar2025 18:32:13.508] [main/INFO] [mixin/]: Mixing accessor.BlockStateBaseAccessor from tfc.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[20Mar2025 18:32:13.522] [main/INFO] [mixin/]: Mixing EntityMixin from tfc.mixins.json into net.minecraft.world.entity.Entity
+[20Mar2025 18:32:13.609] [main/INFO] [mixin/]: Mixing PlayerMixin from tfc.mixins.json into net.minecraft.world.entity.player.Player
+[20Mar2025 18:32:13.610] [main/INFO] [mixin/]: Mixing accessor.PlayerAccessor from tfc.mixins.json into net.minecraft.world.entity.player.Player
+[20Mar2025 18:32:13.669] [main/INFO] [mixin/]: Mixing LevelMixin from tfc.mixins.json into net.minecraft.world.level.Level
+[20Mar2025 18:32:13.704] [main/INFO] [mixin/]: Mixing ServerLevelMixin from tfc.mixins.json into net.minecraft.server.level.ServerLevel
+[20Mar2025 18:32:13.743] [main/INFO] [mixin/]: Mixing accessor.ItemAccessor from tfc.mixins.json into net.minecraft.world.item.Item
+[20Mar2025 18:32:13.810] [main/INFO] [mixin/]: Mixing CreativeModeTabMixin from tfc.mixins.json into net.minecraft.world.item.CreativeModeTab
+[20Mar2025 18:32:13.812] [main/WARN] [mixin/]: Write access to @Mutable @Final field iconGenerator:Ljava/util/function/Supplier; in tfc.mixins.json:CreativeModeTabMixin::handler$zzg000$setCreativeTabContentNonDecaying
+[20Mar2025 18:32:13.896] [main/INFO] [mixin/]: Mixing FallingBlockMixin from tfc.mixins.json into net.minecraft.world.level.block.FallingBlock
+[20Mar2025 18:32:13.909] [main/INFO] [mixin/]: Mixing accessor.DispenserBlockAccessor from tfc.mixins.json into net.minecraft.world.level.block.DispenserBlock
+[20Mar2025 18:32:13.909] [main/INFO] [mixin/]: Renaming @Accessor method accessor$getDispenserRegistry()Ljava/util/Map; to accessor$getDispenserRegistry_$md$39aa25$0 in tfc.mixins.json:accessor.DispenserBlockAccessor
+[20Mar2025 18:32:13.936] [main/INFO] [mixin/]: Mixing SnowLayerBlockMixin from tfc.mixins.json into net.minecraft.world.level.block.SnowLayerBlock
+[20Mar2025 18:32:13.969] [main/INFO] [mixin/]: Mixing IceBlockMixin from tfc.mixins.json into net.minecraft.world.level.block.IceBlock
+[20Mar2025 18:32:13.983] [main/INFO] [mixin/]: Mixing VineBlockMixin from tfc.mixins.json into net.minecraft.world.level.block.VineBlock
+[20Mar2025 18:32:14.051] [main/INFO] [mixin/]: Mixing FlowingFluidMixin from tfc.mixins.json into net.minecraft.world.level.material.FlowingFluid
+[20Mar2025 18:32:14.052] [main/INFO] [mixin/]: Mixing accessor.FlowingFluidAccessor from tfc.mixins.json into net.minecraft.world.level.material.FlowingFluid
+[20Mar2025 18:32:14.110] [main/INFO] [mixin/]: Mixing accessor.FallingBlockEntityAccessor from tfc.mixins.json into net.minecraft.world.entity.item.FallingBlockEntity
+[20Mar2025 18:32:14.207] [main/INFO] [mixin/]: Mixing PistonBlockEntityMixin from tfc.mixins.json into net.minecraft.world.level.block.piston.PistonMovingBlockEntity
+[20Mar2025 18:32:14.287] [main/INFO] [mixin/]: Mixing AbstractContainerMenuMixin from tfc.mixins.json into net.minecraft.world.inventory.AbstractContainerMenu
+[20Mar2025 18:32:14.336] [main/INFO] [mixin/]: Mixing MobMixin from tfc.mixins.json into net.minecraft.world.entity.Mob
+[20Mar2025 18:32:14.384] [main/INFO] [mixin/]: Mixing ItemStackMixin from tfc.mixins.json into net.minecraft.world.item.ItemStack
+[20Mar2025 18:32:14.668] [main/INFO] [mixin/]: Mixing TadpoleMixin from tfc.mixins.json into net.minecraft.world.entity.animal.frog.Tadpole
+[20Mar2025 18:32:14.702] [main/INFO] [mixin/]: Mixing MilkBucketItemMixin from tfc.mixins.json into net.minecraft.world.item.MilkBucketItem
+[20Mar2025 18:32:15.120] [main/INFO] [mixin/]: Mixing AbstractSkeletonMixin from tfc.mixins.json into net.minecraft.world.entity.monster.AbstractSkeleton
+[20Mar2025 18:32:15.121] [main/INFO] [mixin/]: Renaming synthetic method lambda$inject$reassessWeaponGoal$1(Lnet/minecraft/world/entity/ai/goal/WrappedGoal;)Z to md39aa25$lambda$inject$reassessWeaponGoal$1$0 in tfc.mixins.json:AbstractSkeletonMixin
+[20Mar2025 18:32:15.121] [main/INFO] [mixin/]: Renaming synthetic method lambda$inject$reassessWeaponGoal$0(Lnet/minecraft/world/item/Item;)Z to md39aa25$lambda$inject$reassessWeaponGoal$0$1 in tfc.mixins.json:AbstractSkeletonMixin
+[20Mar2025 18:32:15.219] [main/INFO] [mixin/]: Mixing accessor.HorseAccessor from tfc.mixins.json into net.minecraft.world.entity.animal.horse.Horse
+[20Mar2025 18:32:15.240] [main/INFO] [mixin/]: Mixing accessor.OcelotAccessor from tfc.mixins.json into net.minecraft.world.entity.animal.Ocelot
+[20Mar2025 18:32:15.315] [main/INFO] [mixin/]: Mixing FriendlyByteBufMixin from tfc.mixins.json into net.minecraft.network.FriendlyByteBuf
+[20Mar2025 18:32:15.346] [main/INFO] [mixin/]: Mixing SynchedEntityDataMixin from tfc.mixins.json into net.minecraft.network.syncher.SynchedEntityData
+[20Mar2025 18:32:15.347] [main/WARN] [mixin/]: Write access to @Mutable @Final field lock:Ljava/util/concurrent/locks/ReadWriteLock; in tfc.mixins.json:SynchedEntityDataMixin::handler$zbn000$inject$init
+[20Mar2025 18:32:15.370] [main/INFO] [mixin/]: Mixing accessor.ChunkAccessAccessor from tfc.mixins.json into net.minecraft.world.level.chunk.ChunkAccess
+[20Mar2025 18:32:15.376] [main/INFO] [mixin/]: Mixing LevelChunkMixin from tfc.mixins.json into net.minecraft.world.level.chunk.LevelChunk
+[20Mar2025 18:32:15.531] [main/INFO] [mixin/]: Mixing HeightmapMixin from tfc.mixins.json into net.minecraft.world.level.levelgen.Heightmap$Types
+[20Mar2025 18:32:15.531] [main/INFO] [mixin/]: Renaming synthetic method lambda$inject$init$0(Ljava/util/function/Predicate;Lnet/minecraft/world/level/block/state/BlockState;)Z to md39aa25$lambda$inject$init$0$0 in tfc.mixins.json:HeightmapMixin
+[20Mar2025 18:32:15.532] [main/WARN] [mixin/]: Write access to @Mutable @Final field isOpaque:Ljava/util/function/Predicate; in tfc.mixins.json:HeightmapMixin::handler$zzo000$inject$init
+[20Mar2025 18:32:15.539] [main/INFO] [mixin/]: Mixing accessor.ChunkGeneratorAccessor from tfc.mixins.json into net.minecraft.world.level.chunk.ChunkGenerator
+[20Mar2025 18:32:15.649] [main/INFO] [mixin/]: Mixing DimensionTypeMixin from tfc.mixins.json into net.minecraft.world.level.dimension.DimensionType
+[20Mar2025 18:32:15.871] [main/INFO] [mixin/]: Mixing BiomeMixin from tfc.mixins.json into net.minecraft.world.level.biome.Biome
+[20Mar2025 18:32:15.872] [main/INFO] [mixin/]: Mixing accessor.BiomeAccessor from tfc.mixins.json into net.minecraft.world.level.biome.Biome
+[20Mar2025 18:32:16.060] [modloading-worker-0/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Initializing TerraFirmaCraft
+[20Mar2025 18:32:16.061] [modloading-worker-0/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Options: Assertions Enabled = false, Boostrap = false, Test = false, Debug Logging = true
+[20Mar2025 18:32:16.072] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.23, for MC 1.20.1 with MCP 20230612.114412
+[20Mar2025 18:32:16.072] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.23 Initialized
+[20Mar2025 18:32:16.093] [modloading-worker-0/INFO] [mixin/]: Mixing client.AccessorKeyMapping from patchouli_xplat.mixins.json into net.minecraft.client.KeyMapping
+[20Mar2025 18:32:16.093] [modloading-worker-0/INFO] [mixin/]: Renaming @Accessor method getAllKeyMappings()Ljava/util/Map; to getAllKeyMappings_$md$39aa25$0 in patchouli_xplat.mixins.json:client.AccessorKeyMapping
+[20Mar2025 18:32:16.112] [modloading-worker-0/INFO] [mixin/]: Mixing client.MultiPlayerGameModeMixin from tfc.mixins.json into net.minecraft.client.multiplayer.MultiPlayerGameMode
+[20Mar2025 18:32:16.112] [modloading-worker-0/INFO] [mixin/]: Renaming synthetic method lambda$inject$useItemOn$0(Lnet/minecraft/client/player/LocalPlayer;Lnet/minecraft/world/item/ItemStack;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/InteractionResult;)V to md39aa25$lambda$inject$useItemOn$0$0 in tfc.mixins.json:client.MultiPlayerGameModeMixin
+[20Mar2025 18:32:16.210] [modloading-worker-0/INFO] [mixin/]: Mixing client.accessor.LocalPlayerAccessor from tfc.mixins.json into net.minecraft.client.player.LocalPlayer
+[20Mar2025 18:32:16.222] [modloading-worker-0/INFO] [mixin/]: Mixing client.MinecraftMixin from tfc.mixins.json into net.minecraft.client.Minecraft
+[20Mar2025 18:32:16.252] [modloading-worker-0/INFO] [mixin/]: Mixing client.AccessorScreen from patchouli_xplat.mixins.json into net.minecraft.client.gui.screens.Screen
+[20Mar2025 18:32:16.266] [modloading-worker-0/INFO] [mixin/]: Mixing client.ClientLevelMixin from tfc.mixins.json into net.minecraft.client.multiplayer.ClientLevel
+[20Mar2025 18:32:16.266] [modloading-worker-0/INFO] [mixin/]: Renaming synthetic method lambda$getSkyColorWithColormap$0(III)Lnet/minecraft/world/phys/Vec3; to md39aa25$lambda$getSkyColorWithColormap$0$0 in tfc.mixins.json:client.ClientLevelMixin
+[20Mar2025 18:32:16.281] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinInventoryScreen from patchouli_xplat.mixins.json into net.minecraft.client.gui.screens.inventory.InventoryScreen
+[20Mar2025 18:32:16.306] [modloading-worker-0/INFO] [mixin/]: Mixing client.ItemColorsMixin from tfc.mixins.json into net.minecraft.client.color.item.ItemColors
+[20Mar2025 18:32:16.307] [modloading-worker-0/INFO] [mixin/]: Mixing client.compat.sodium.ItemColorsMixin from tfc.mixins.json into net.minecraft.client.color.item.ItemColors
+[20Mar2025 18:32:16.308] [modloading-worker-0/INFO] [mixin/]: Renaming synthetic method lambda$getColorProviderWithRottenFood$0(Lnet/minecraft/world/item/ItemStack;I)I to md39aa25$lambda$getColorProviderWithRottenFood$0$0 in tfc.mixins.json:client.compat.sodium.ItemColorsMixin
+[20Mar2025 18:32:16.362] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[20Mar2025 18:32:16.366] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 2.479 ms
+[20Mar2025 18:32:16.368] [modloading-worker-0/INFO] [mixin/]: Mixing RecipeManagerMixin from tfc.mixins.json into net.minecraft.world.item.crafting.RecipeManager
+[20Mar2025 18:32:16.369] [modloading-worker-0/INFO] [mixin/]: Mixing accessor.RecipeManagerAccessor from tfc.mixins.json into net.minecraft.world.item.crafting.RecipeManager
+[20Mar2025 18:32:16.711] [modloading-worker-0/INFO] [mixin/]: Mixing TFCConfigMixin from mixins.tfcc.json into net.dries007.tfc.config.ServerConfig
+[20Mar2025 18:32:16.809] [modloading-worker-0/INFO] [mixin/]: Mixing client.LevelRendererMixin from tfc.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[20Mar2025 18:32:16.810] [modloading-worker-0/INFO] [mixin/]: Mixing client.accessor.LevelRendererAccessor from tfc.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[20Mar2025 18:32:16.810] [modloading-worker-0/INFO] [mixin/]: Renaming @Invoker method invoke$renderShape(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/phys/shapes/VoxelShape;DDDFFFF)V to invoke$renderShape_$md$39aa25$0 in tfc.mixins.json:client.accessor.LevelRendererAccessor
+[20Mar2025 18:32:16.814] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinLevelRenderer from patchouli_xplat.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[20Mar2025 18:32:18.616] [Worker-Main-1/INFO] [mixin/]: Mixing WorldPresetsMixin from tfc.mixins.json into net.minecraft.world.level.levelgen.presets.WorldPresets
+[20Mar2025 18:32:18.634] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/david/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.23_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.23_mapped_parchment_2023.09.03-1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[20Mar2025 18:32:18.635] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/david/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.23_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.23_mapped_parchment_2023.09.03-1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[20Mar2025 18:32:18.718] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : tfcc
+[20Mar2025 18:32:18.744] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : tfcc finished after 25 ms
+[20Mar2025 18:32:18.744] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 26 ms
+[20Mar2025 18:32:18.746] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 58, old count: 58, new count: 59, removed stale: 0, written: 0
